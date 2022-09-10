@@ -1,0 +1,5 @@
+echo "Enter username or email-id"
+read credentials
+
+echo "Enter password"
+read password
